@@ -118,7 +118,6 @@ section {
 .cliente-grid {
   display: grid;
   grid-auto-flow: column;
-  gap: 3rem;
   width: 80vw;
   margin: auto;
   padding: 20px;
