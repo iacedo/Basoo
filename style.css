@@ -1,0 +1,283 @@
+/* Variables de diseño */
+:root {
+  --clr-rust: #b93a11;
+  --clr-jet: #2c2c2c;
+  --clr-umber: #73625a;
+  --clr-grayweb: #7d7b7b;
+  --clr-silver: #c4c4c4;
+  --ff: "Red Hat Display", sans-serif;
+  --h1: 40px;
+  --h2: 33px;
+  --h3: 27px;
+  --h4: 23px;
+  --h5: 19px;
+  --h6: 16px;
+  --fs: 16px;
+}
+
+/* Reset */
+html {
+  box-sizing: border-box;
+}
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+  margin: 0;
+  padding: 0;
+}
+ul,
+ol {
+  list-style: none;
+}
+li {
+  padding-inline: 0;
+}
+img {
+  max-width: 100%;
+  display: block;
+}
+
+/* Base */
+body {
+  background: white;
+  color: var(--clr-jet);
+  font-family: var(--ff);
+  font-size: var(--fs);
+  font-weight: 400;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 700;
+}
+
+h1 {
+  font-size: var(--h1);
+}
+
+h2 {
+  font-size: var(--h2);
+}
+
+h3 {
+  font-size: var(--h3);
+}
+
+h4 {
+  font-size: var(--h4);
+}
+
+h5 {
+  font-size: var(--h5);
+}
+
+h6 {
+  font-size: var(--h6);
+}
+
+/* Componentes */
+.header {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  width: 80vw;
+  height: 120px;
+  margin: auto;
+  padding: 1rem;
+}
+.header__nav ul {
+  display: flex;
+  gap: 2.5rem;
+}
+
+.hero {
+  height: 540px;
+  background: var(--clr-silver);
+}
+
+section {
+  display: flex;
+  gap: 20px;
+}
+
+.seccion-titulo {
+  padding: 2rem;
+  padding-top: 3rem;
+  font-size: 18px;
+  text-transform: uppercase;
+  writing-mode: vertical-lr;
+  transform: rotate(180deg);
+}
+
+.cliente-grid {
+  display: grid;
+  grid-auto-flow: column;
+  width: 80vw;
+  margin: auto;
+  padding: 20px;
+}
+.cliente {
+  display: grid;
+  width: 230px;
+  margin-block: 20px;
+}
+.cliente > * {
+  padding-top: 1.4rem;
+}
+.cliente__img {
+  background-color: var(--clr-silver);
+  border-radius: 100%;
+  width: 130px;
+  height: 130px;
+  margin: auto;
+}
+.cliente__titulo {
+  padding-left: 1rem;
+  font-weight: normal;
+  font-size: 19px;
+}
+.cliente__descripcion {
+  padding-left: 1rem;
+  font-size: 14px;
+}
+
+.beneficios {
+  display: flex;
+  gap: 40px;
+  margin-top: 60px;
+}
+
+section.beneficios .seccion-titulo {
+  display: flex;
+  justify-content: flex-start;
+  margin: unset;
+  padding-top: 1rem;
+}
+
+.beneficios__lista {
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+}
+
+.beneficio {
+  font-size: 15px;
+}
+
+.cotiza {
+  position: relative;
+  margin: 60px 0;
+}
+
+.paquetes {
+  display: grid;
+  grid-auto-flow: column;
+  place-content: center;
+  gap: 3rem;
+  margin: auto;
+}
+
+.paquete {
+  display: grid;
+  place-content: center;
+  margin-bottom: 4rem;
+}
+.paquete h3 {
+  display: flex;
+  align-items: center;
+  background: var(--clr-jet);
+  color: white;
+  width: 240px;
+  height: 100px;
+  margin-bottom: 2rem;
+  padding-left: 2rem;
+  font-size: 18px;
+  font-weight: normal;
+  text-transform: uppercase;
+  border-radius: 40px;
+}
+
+.paquete ul {
+  padding-bottom: 2rem;
+  font-size: 13px;
+  line-height: 2;
+}
+
+.cta {
+  position: absolute;
+  bottom: 0;
+  right: 50%;
+  transform: translate(50%);
+}
+
+.cta button {
+  background-color: var(--clr-jet);
+  color: white;
+  width: 600px;
+  margin-inline-end: -5rem;
+  padding: 0.5rem;
+  text-transform: uppercase;
+  border-radius: 100px;
+}
+
+.contacto {
+  margin: 3rem 0;
+}
+.contacto__form {
+  display: flex;
+  gap: 3rem;
+  flex: 1;
+  margin-top: 2rem;
+}
+.contacto__form form > * {
+  background-color: var(--clr-silver);
+  border: none;
+}
+.contacto__form img {
+  width: 100%;
+  max-width: 30vw;
+}
+
+.contacto__form .forma-contacto {
+  display: grid;
+  justify-content: center;
+  align-content: end;
+  gap: 0.5rem;
+  flex: 1;
+  max-width: max-content;
+}
+
+.contacto__form select,
+.contacto__form input {
+  width: 240px;
+  height: 2rem;
+}
+
+.contacto__form input:last-of-type {
+  width: 400px;
+  height: 200px;
+}
+
+.footer {
+  background-color: var(--clr-jet);
+  color: white;
+}
+
+.footer__nav {
+  max-width: 70vw;
+  margin: 0 1rem 0 auto;
+}
+
+.footer__nav ul {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 100px;
+  font-size: 14px;
+}
