@@ -42,3 +42,30 @@ El qr ES UN MISTERIO
 te manda a google con letras extrañas no sale nada
 preguntamos en la oficia que para qué servía, ni los de medios supieron decir: solo dijeron que era información 
 la pregunta es ¿Quién lo lee? ¿Donde se hostea esa info?
+
+## Ejercicio - Brainstorm
+App entrada al campus 
+1. Cuestionario Folio 
+2. Temperatura
+3*. Subir prueba covid (Cámara, escaner, send)
+4. Credencial 
+
+ACCESOOOO
+
+Analisis app general
+- Procesos de negocio (Santander)
+Creemos que santander quiere publicidad, investigar y saber que onda. 
+- Usabilidad
+Enfocar la app solo a lo que no tienen las plataformas de brightspace y portal: entrada al campus
+- Ubicación de info
+Un listado muy sencillo donde vayasveas los requisitos de entrada y vayas viendo tu progreso al seguir los pasos
+- Soporte
+Poner un boton de soporte y que te explique
+-Reducción de errores
+Que funcione rápido
+-Estética
+Que siga la identidad de centro y que los colores sean claros
+-Modularidad
+El botón de finalizar/entrar lo que hace es: dar acceso y enviar todos tus datos a centro
+-Eliminar funcionalidad obsoleta
+Evitar botones de entrada, eliminar links externos
