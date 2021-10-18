@@ -1,0 +1,13 @@
+# Fase entendimiento
+
+Diapositivas: https://slides.com/michelventura/fase-uno
+
+## Ejercicio - Análisis de problemática actual:
+
+- ABC ...
+- XYZ ...
+
+## Ejercicio - Observación de usuarios
+
+- Persona uno: ...
+- Persona dos: ...
