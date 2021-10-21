@@ -81,7 +81,7 @@ Evitar botones de entrada, eliminar links externos
     3. falta un botón para hacer el cuestionario de entrada
     Mandar notificaciones por la app de eventos no por mails
 3)Performance
-    En la mñana le pidio el login, le rebotaba, se tarda años
+    En la mañana le pidio el login, le rebotaba, se tarda años
     lo del bluetooth se tarda mucho y no siempre jala 
     1. se tarda mucho al empezar
     9. No es claro para qué funciona el botón de bluetooth en la credencial digital 
@@ -104,3 +104,69 @@ Evitar botones de entrada, eliminar links externos
     8. Los eventos no están completos ni ligados, no tiene imagen, falta claridad
     SOLO LA USO PARA ENTRAR
     No es portal, te manda al portal. Portal tiene todo 
+
+
+## Ejercicio - Prioridades
+
+Problema: Anuncios Santander
+Categoría: Proceso de negocio
+Prioridad: *
+Impacto: Bajo
+Notas: ¿Se necesitan?
+Budget:
+
+Problema: Falta Cuestionario Entrada
+Categoría: Nuevas funcionalidades
+Prioridad: ***
+Impacto: Alto
+Notas: (¿link externo?)
+Budget:
+
+Problema: Activar notificaciones
+Categoría: Nuevas funcionalidades
+Prioridad: **
+Impacto: medio
+Notas:
+Budget:
+
+Problema: Que no este pidiendo Log in 
+Categoría: Performance
+Prioridad: ***
+Impacto: Alto
+Notas:
+Budget:
+
+Problema: Velocidad de app
+Categoría: Performance
+Prioridad: ***
+Impacto: Alta
+Notas:
+Budget:
+
+Problema: Botón bluetooth
+Categoría: Estética y Performance
+Prioridad: ***
+Impacto: Alta
+Notas:
+Budget:
+
+Problema: Ubicación y síntesis de información
+Categoría: Ubicación de 
+Prioridad: **
+Impacto: medio
+Notas:
+Budget:
+
+Problema: Misterio QR
+Categoría: Soporte
+Prioridad: *
+Impacto: bajo
+Notas:
+Budget:
+
+Problema: Horarios y calificaciones mal
+Categoría: Errores
+Prioridad: ***
+Impacto: alto
+Notas:
+Budget:
