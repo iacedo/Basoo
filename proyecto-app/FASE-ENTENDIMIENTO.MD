@@ -69,3 +69,38 @@ Que siga la identidad de centro y que los colores sean claros
 El botón de finalizar/entrar lo que hace es: dar acceso y enviar todos tus datos a centro
 -Eliminar funcionalidad obsoleta
 Evitar botones de entrada, eliminar links externos
+
+
+
+## Ejercicio - Análisis a categoria 
+
+1) Proceso de negocio
+    7. A qué se refiere con anuncios y por qué nunca muestra anuncios 
+    10.Nunca he entendido que onda con Santander
+2)Nuevas Funcionalidades
+    3. falta un botón para hacer el cuestionario de entrada
+    Mandar notificaciones por la app de eventos no por mails
+3)Performance
+    En la mñana le pidio el login, le rebotaba, se tarda años
+    lo del bluetooth se tarda mucho y no siempre jala 
+    1. se tarda mucho al empezar
+    9. No es claro para qué funciona el botón de bluetooth en la credencial digital 
+4)Uibicación de información
+    2. te presenta en el inicio las calificaciones.. en centro nunca sabemos ni importan nuestras calificaciones tanto
+    4. servicios académicos: sólo asignaturas y calificaciones (hay más: calendario)
+    hay mucha información, pero no dice nada
+    Repiten info
+5)Soporte
+    Mi credencial dice diseño industrial no estudio eso
+    El qr ES UN MISTERIO 
+6)Errores
+    5. ¿Cuál es la diferencia entre servicios académicos y servicios del estudiante?
+    6. Los horarios están desfasados 
+    horarios mal, calificaciones mal
+7)Estética
+    no entendí los colores rapido, pero luego si jalo
+8)Modularidad
+9)Funcionalidad obsoleta
+    8. Los eventos no están completos ni ligados, no tiene imagen, falta claridad
+    SOLO LA USO PARA ENTRAR
+    No es portal, te manda al portal. Portal tiene todo 
