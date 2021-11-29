@@ -1,46 +1,42 @@
 NUEVO COLOR NARANJA: #c32700
+1
+https://res.cloudinary.com/dyk5cl3d8/image/upload/v1635781696/basoo/1.jpg
 
-gif basura
-https://res.cloudinary.com/dyk5cl3d8/image/upload/v1636673311/basoo/Basoo_b6ydvx.gif
+2
+https://res.cloudinary.com/dyk5cl3d8/image/upload/v1635781696/basoo/2.jpg
 
-tubos coloridos
-https://res.cloudinary.com/dyk5cl3d8/image/upload/v1631222250/basoo/IMG_8417_rcm6kb.jpg
+3
+https://res.cloudinary.com/dyk5cl3d8/image/upload/v1635781696/basoo/3.jpg
 
-montaña de basura
-https://res.cloudinary.com/dyk5cl3d8/image/upload/v1635781696/basoo/IMG_8481_f4xfom.jpg
+4
+https://res.cloudinary.com/dyk5cl3d8/image/upload/v1636673311/basoo/4.gif
 
-escuela
-https://res.cloudinary.com/dyk5cl3d8/image/upload/v1635781695/basoo/IMG_8471_qg6dvn.jpg
+5
+https://res.cloudinary.com/dyk5cl3d8/image/upload/v1635781696/basoo/5.jpg
 
-casa
-https://res.cloudinary.com/dyk5cl3d8/image/upload/v1635781695/basoo/IMG_8470_zphtgj.jpg
+6
+https://res.cloudinary.com/dyk5cl3d8/image/upload/v1635781695/basoo/6.jpg
 
-oficinas
-https://res.cloudinary.com/dyk5cl3d8/image/upload/v1635781695/basoo/IMG_8472_fsfkum.jpg
+7
+https://res.cloudinary.com/dyk5cl3d8/image/upload/v1635781695/basoo/7.jpg
 
-fábrica
-https://res.cloudinary.com/dyk5cl3d8/image/upload/v1635781696/basoo/IMG_8473_qlmwej.jpg
+8
+https://res.cloudinary.com/dyk5cl3d8/image/upload/v1635781695/basoo/8.jpg
 
-cocina
-https://res.cloudinary.com/dyk5cl3d8/image/upload/v1635781696/basoo/IMG_8474_zkvmpv.jpg
+9
+https://res.cloudinary.com/dyk5cl3d8/image/upload/v1635781696/basoo/9.jpg
 
-seis botes de basura
-https://res.cloudinary.com/dyk5cl3d8/image/upload/v1635781696/basoo/IMG_8477_x9vy8e.jpg
+10
+https://res.cloudinary.com/dyk5cl3d8/image/upload/v1638200991/basoo/10.png
 
-estadio azteca
-https://res.cloudinary.com/dyk5cl3d8/image/upload/v1635781696/basoo/IMG_8483_hq2kn0.jpg
+11
+https://res.cloudinary.com/dyk5cl3d8/image/upload/v1631222249/basoo/11.png
 
-cubos compresión
-https://res.cloudinary.com/dyk5cl3d8/image/upload/v1635781696/basoo/IMG_8484_ys6ppr.jpg
+12
+https://res.cloudinary.com/dyk5cl3d8/image/upload/v1631222249/basoo/12.png
 
-grua
-https://res.cloudinary.com/dyk5cl3d8/image/upload/v1635781696/basoo/IMG_8480_rvwp7w.jpg
+13
+https://res.cloudinary.com/dyk5cl3d8/image/upload/v1631222250/basoo/13.jpg
 
-testimonio mujer
-https://res.cloudinary.com/dyk5cl3d8/image/upload/v1631222249/basoo/Captura_de_pantalla_2021-08-16_115456_idjs52.png
-
-testimonio hombre
-https://res.cloudinary.com/dyk5cl3d8/image/upload/v1631222249/basoo/Captura_de_pantalla_2021-08-16_115436_bz7ell.png
-
-camión de basura
-https://res.cloudinary.com/dyk5cl3d8/image/upload/v1635781697/basoo/IMG_8479_pe1yr4.jpg
+14
+https://res.cloudinary.com/dyk5cl3d8/image/upload/v1635781697/basoo/14.jpg
